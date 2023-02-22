@@ -5,3 +5,4 @@
 AC2Kです。競プロerです。
 - Twitter:[![Twitter Follow](https://img.shields.io/twitter/follow/ac2000_cp?style=social)](https://twitter.com/ac2000_cp) <br>
 - AtCoder:[![Rating](https://badgen.org/img/atcoder/AC2K/rating/algorithm?style=plastic)](https://atcoder.jp/users/AC2K?contestType=algo)
+- Library for contests:[![GitHub Pages](https://img.shields.io/static/v1?label=GitHub+Pages&message=+&color=brightgreen&logo=github)](https://beet-aizu.github.io/library/) 
