@@ -9,11 +9,11 @@
   
   \
   \
-  [![GitHub Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AC2-K&theme=dracula)](https://github.com/AC2-K/github-readme-stats)
+  ![Git Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AC2-K&theme=radical)
   \
   \
-  ![AC2K's GitHub stats](https://github-readme-stats.vercel.app/api?username=AC2-K&theme=dracula)
-  \
-  \
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AC2-K&theme=dracula)](https://github.com/AC2-K/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AC2-K&show_icons=true&theme=radical)
 
+  \
+  \
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AC2-K&show_icons=true&theme=radical&layout=pie)](https://github.com/AC2-K/github-readme-stats)
