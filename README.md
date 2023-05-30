@@ -5,7 +5,7 @@
   - 💻 I'm a compective programmer!!!
  
   \
-  [![AtCoder](https://cp-logo.vercel.app/atcoder/AC2K)](https://atcoder.jp/users/AC2K)   [![GitHub](https://img.shields.io/github/followers/AC2-K.svg?style=social&label=followers&maxAge=2592000)](https://github.com/AC2-K?tab=followers)   [![Twitter](https://img.shields.io/twitter/follow/ac2000_cp?style=social)](https://twitter.com/ac2000_cp "Twitter")
+  [![AC2K](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FAC2K)](https://atcoder.jp/users/AC2K)  [![GitHub](https://img.shields.io/github/followers/AC2-K.svg?style=social&label=followers&maxAge=2592000)](https://github.com/AC2-K?tab=followers)   [![Twitter](https://img.shields.io/twitter/follow/ac2000_cp?style=social)](https://twitter.com/ac2000_cp "Twitter")
   
   \
   \
