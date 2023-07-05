@@ -1,6 +1,6 @@
   # Nice to meet you!!!
   Hi.I'm AC2K.
-  - I'm 14 years old.
+  - I'm 15 years old.
   - 🏫 I'm a junior high school student in Japan.
   - 💻 I'm a compective programmer!!!
  
