@@ -8,5 +8,5 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AC2-K&theme=solarized) 
 
   ### Follow me!
-  - ![GitHub followers](https://img.shields.io/github/followers/AC2-K?label=Follow&logo=github)
-  - ![Twitter Follow](https://img.shields.io/twitter/follow/ac2000_cp?style=flat&logo=twitter)
+  - ![GitHub followers](https://img.shields.io/github/followers/AC2-K?label=Follow&style=social&logo=github&link=https%3A%2F%2Fgithub.com%2FAC2-K%3Ftab%3Dfollowers)
+  - ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ac2000_cp)
