@@ -1,7 +1,7 @@
   ## Nice to meet you!👋
   
   ![ViewCounter](https://komarev.com/ghpvc/?username=AC2K)
-  ![GitHub followers](https://img.shields.io/github/followers/AC2-K?label=Follow&style=flat&logo=GitHub)
+  ![GitHub followers](https://img.shields.io/github/followers/AC2-K?logo=github)
   ![Twitter Follow](https://img.shields.io/twitter/follow/ac2000_cp?style=flat&logo=twitter)
   [![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FAC2K)](https://atcoder.jp/users/AC2K)
   [![CodeForces](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FAC2K)](https://codeforces.com/profile/AC2K)
