@@ -12,4 +12,4 @@
   - [![GitHub followers](https://img.shields.io/github/followers/AC2-K?style=social)](https://github.com/AC2-K?tab=followers)
   - [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ac2000_cp)](https://twitter.com/ac2000_cp)
 
-  I am always on Twitter!
+  I am always on Twitter! Please follow me!
