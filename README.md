@@ -1,4 +1,4 @@
-  ## Nice to meet you!🤘
+  ## Nice to meet you! 🫠
   
   ![ViewCounter](https://komarev.com/ghpvc/?username=AC2K)
   [![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FAC2K)](https://atcoder.jp/users/AC2K)
