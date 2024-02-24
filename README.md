@@ -8,6 +8,6 @@
   [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AC2-K&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AC2-K&theme=github_dark&exclude=true)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AC2-K&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  ## Accounts!
+  ## Follow Me!!!
   - [![GitHub followers](https://img.shields.io/github/followers/AC2-K?style=social)](https://github.com/AC2-K?tab=followers)
   - [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ac2000_cp)](https://twitter.com/ac2000_cp)
